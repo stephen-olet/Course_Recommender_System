@@ -210,3 +210,4 @@ elif pred_button and model_selection == backend.models[2]:
         st.table(res_df)
     except:
         st.sidebar.text("Please input another user")
+
